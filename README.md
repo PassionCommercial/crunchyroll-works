@@ -31,4 +31,4 @@ It keeps things simple: quick to set up, light on resources, and easy to use day
 
 ## A note on usage
 > [!CAUTION]
-> Provided for educational and utility purposes only. Use at your own discretion.                   
+> Provided for educational and utility purposes only. Use at your own discretion.                    
